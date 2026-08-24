@@ -3,7 +3,7 @@ layout: post
 title: 'Project One'
 thumbnail: /assets/img/projects/proj-1/thumbnail.jpg
 ---
-Testing
+Testing. This is to test a conflict
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/wallpaper.jpg" %}
 
